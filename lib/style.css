@@ -1,0 +1,21 @@
+/* Add your styles here */
+.titulo {
+  background-color: blue;
+  color: white;
+}
+.img {
+  background-color: blue;
+  color: white;
+}
+ .col-12 {
+  background-color: black;
+  color: white;
+ }
+ .col-6 {
+  background-color: black;
+  color: white;
+ }
+
+ #id{
+   color: green;
+ }
